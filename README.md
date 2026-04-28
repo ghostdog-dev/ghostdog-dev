@@ -27,7 +27,7 @@ Backend developer with a thing for clean APIs and well-structured systems. Pytho
 
 | Project | Description |
 |---------|-------------|
-| [Nova Ledger](https://github.com/ghostdog-dev/Nova-Ledger) | Plateforme intelligente de rapprochement comptable multi-sources propulsée par IA. Django + React/TS. *En cours de dev.* |
+| [Nova Ledger](https://github.com/ghostdog-dev/app-nova-ledger) | Plateforme intelligente de rapprochement comptable multi-sources propulsée par IA. Django + React/TS. *En cours de dev.* |
 | [app-ghostdog-cv](https://github.com/ghostdog-dev/app-ghostdog-cv) | Multi-render CV — API, CLI, web app & PDF export. Built with FastAPI + React/TS. |
 | [app-ia-finder](https://github.com/ghostdog-dev/app-ia-finder) | Backend Django for an AI-tools discovery platform — DRF, Stripe, Google OAuth, xAI/Grok chatbot. |
 | [app-lassegue-art](https://github.com/ghostdog-dev/app-lassegue-art) | Bilingual portfolio template for an artist — React + TypeScript + Vite + Framer Motion. |
